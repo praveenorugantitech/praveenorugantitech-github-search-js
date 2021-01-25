@@ -3,6 +3,6 @@
 ![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-javascript-projects/master/praveenorugantitech-github-search/screenshot.PNG "GitHub Search")
 
 
-[Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-javascript-projects/praveenorugantitech-github-search/Demo)
+[Live Demo](http://praveenorugantitech.github.io/praveenorugantitech-github-search-js/Demo/)
 
 
